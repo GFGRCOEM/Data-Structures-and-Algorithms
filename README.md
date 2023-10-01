@@ -129,7 +129,3 @@ File Name : ProblemNumber_ProblemName.extension {ex : 4_Two_Sum.cpp }
 - [DSA ALL TOPICS](https://www.geeksforgeeks.org/data-structures)
 - [DSA Complete Tutorial](https://www.scaler.com/topics/data-structures/)
 
-## Contributors
-<a href="https://github.com/Git-For-Geeks/DATA-STRUCTURES-AND-ALGORITHMS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Git-For-Geeks/DATA-STRUCTURES-AND-ALGORITHMS" />
-</a>
