@@ -120,7 +120,7 @@
 | 8 | Design Circular Deque | https://leetcode.com/problems/design-circular-deque/ | 
 | 9 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii/ |
 | 10 | Longest Increasing Subsequence II | https://leetcode.com/problems/longest-increasing-subsequence-ii/ | 
-| 11 | Minimum Number of K Consecutive Bit Flips | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ | srushti-dhakate-2210 |
+| 11 | Minimum Number of K Consecutive Bit Flips | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ |
 
 ## Trees
 
